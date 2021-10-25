@@ -1,1 +1,1 @@
-1.1 | 2021/10/10 - xpathtextinput field changed
+1.2 | 2021/10/25 - [New Feature] Avoid scanning the QR code
